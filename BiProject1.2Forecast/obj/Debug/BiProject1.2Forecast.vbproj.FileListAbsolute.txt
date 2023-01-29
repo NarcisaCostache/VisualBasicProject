@@ -1,0 +1,14 @@
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\bin\Debug\BiProject1.2Forecast.exe.config
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\bin\Debug\BiProject1.2Forecast.exe
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\bin\Debug\BiProject1.2Forecast.pdb
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\bin\Debug\BiProject1.2Forecast.xml
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1.2Forecast.vbprojAssemblyReference.cache
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1._2Forecast.Form1.resources
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1._2Forecast.Resources.resources
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1.2Forecast.vbproj.GenerateResource.cache
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1.2Forecast.vbproj.CoreCompileInputs.cache
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1.2Forecast.exe
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1.2Forecast.xml
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1.2Forecast.pdb
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1.2Forecast.vbproj.ResolveComReference.cache
+C:\Users\narci\Desktop\BI\BiProject1.2Forecast\obj\Debug\BiProject1._2Forecast.Form2.resources
